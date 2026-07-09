@@ -6,6 +6,8 @@ This repository presents a continuous bidirectional ST (Space-Time)
 feasible region reconstruction method and robust QP-based speed planning
 framework for autonomous driving.
 
+![Overall Framework](figures/figure_1.png)
+
 The method focuses on solving the instability problems of traditional
 DP-QP speed planners:
 
@@ -24,7 +26,7 @@ executable speed trajectories.
 
 ## Framework
 
-![Overall Framework](figures/figure_1.png)
+![Overall Framework](figures/figure_2.png)
 
 The framework contains:
 
@@ -69,7 +71,7 @@ maintaining obstacle safety constraints.
 
 ## Simulation Platform
 
-![Closed Loop Simulation](figures/figure_2.png)
+![Closed Loop Simulation](figures/figure_3.png)
 
 The validation platform is built with:
 
@@ -93,7 +95,7 @@ Simulation parameters:
 
 ## Test Scenarios
 
-![Simulation Cases](figures/figure_3.png)
+![Simulation Cases](figures/figure_4.png)
 
 Four scenarios are evaluated:
 
